@@ -1,0 +1,26 @@
+{
+  "name": "angular-nadobit-adminlte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadobit/angular-nadobit-adminlte.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nadobit/angular-nadobit-adminlte/issues"
+  },
+  "homepage": "https://github.com/nadobit/angular-nadobit-adminlte#readme",
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-minifier": "^0.1.3",
+    "gulp-rename": "^1.2.2"
+  }
+}

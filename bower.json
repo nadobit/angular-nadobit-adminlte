@@ -1,0 +1,23 @@
+{
+  "name": "angular-nadobit-adminlte",
+  "description": "AdminLTE binding for AngularJS",
+  "main": "dist/angular-nadobit-adminlte.min.js",
+  "authors": [
+    "Bastian Probian <contmp@me.com>",
+    "Michael Drescher <kaesemeister@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angularjs",
+    "adminlte",
+    "nadobit"
+  ],
+  "homepage": "https://github.com/nadobit/angular-nadobit-adminlte",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src"
+  ]
+}
