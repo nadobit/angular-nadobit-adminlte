@@ -22,5 +22,8 @@
     "gulp-browserify": "^0.5.1",
     "gulp-minifier": "^0.1.3",
     "gulp-rename": "^1.2.2"
+  },
+  "dependencies": {
+    "admin-lte": "^2.3.3"
   }
 }
